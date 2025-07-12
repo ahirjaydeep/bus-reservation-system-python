@@ -18,3 +18,8 @@ This is a console-based Bus Reservation System developed using Python. It is an 
 
 ```bash
 python BusReservation.py
+```
+## Author
+
+Jaydeep Ahir
+[LinkedIn](https://www.linkedin.com/in/jaydeep-ahir-811743209/)
